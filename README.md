@@ -33,7 +33,7 @@ Now, for TV shows it looks similar to maturity rating in movies where the larger
 
 ## TV Show Score by Genres
 
-![Recordit GIF](http://g.recordit.co/DJnsu44NXY.gif)
+![Recordit](https://g.recordit.co/DJnsu44NXY.gif)
 
 The breakdown of average scores by TV show genre also shows some room for opportunity. There are several smaller darker blue quadrants that represent possible TV show genres Netflix should try to expand on considering they have higher average scores than larger and closer to white quadrants such as Kids' TV and Kids' TV/TV Comedies.
 
